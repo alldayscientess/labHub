@@ -5,7 +5,7 @@ An online lab notebook is required of all lab members. Entries need to be organi
 Person | Notebook  | Commitment
 --- | --- | ----
 Shefali Setia-Verma | [sr320.github.io](https://sr320.github.io/) |  ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)
-Tess Cherlin | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) |  ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)
+Tess Cherlin | [alldayscientess.github.io](https://alldayscientess.github.io/) |  ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)
 Lindsday Guare | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io)
 Chelsea Okeh | [afcoyle.github.io](https://afcoyle.github.io) |   ![GitHub last commit](https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io)
 Susanna Liu | [ocattau.github.io](https://ocattau.github.io/notebook-2/)  | ![GitHub last commit](https://img.shields.io/github/last-commit/ocattau/notebook-2)
