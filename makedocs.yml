@@ -1,4 +1,4 @@
-site_name: Roberts Lab Handbook
+site_name: Setia-Verma Lab Handbook
 theme:
   name: material
   palette:
@@ -25,7 +25,7 @@ markdown_extensions:
   - pymdownx.superfences
 repo_url: https://github.com/RobertsLab/resources/
 nav:
-   - Home: 'index2.md'
+   - Home: 'index.md'
 
    - 'Lab Culture':
      - Onboarding: 'Onboarding.md'
