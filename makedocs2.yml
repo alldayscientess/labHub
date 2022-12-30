@@ -25,14 +25,14 @@ markdown_extensions:
   - pymdownx.superfences
 repo_url: https://github.com/RobertsLab/resources/
 nav:
-   - Home: 'index.md'
+   - Home: 'index2.md'
 
    - 'Lab Culture':
      - Onboarding: 'Onboarding.md'
      - Code of Conduct: 'Code-of-Conduct.md'
      - Environment and Expectations: 'Environment-and-Expectations.md'
      - Lab Communication: 'Lab-Communication.md'
-     - Lab Notebooks: 'Lab-Notebooks.md'
+     - Lab Notebooks: 'Lab-Notebooks2.md'
      - DEI Resources: 'DEI-Resources.md'
      - External Communication: 'External-Communication-and-Funding.md'
      - Lab Safety: 'Lab-Safety.md'
@@ -65,16 +65,10 @@ nav:
      - Genomic Resources: 'Genomic-Resources.md'
      - Spotify Playlists: 'music.md'
 
-   - 'Protocols':
-     - Purchasing and Reimbursement: 'Purchasing-and-Reimbursement.md'
-     - Data-Management: 'Data-Management.md'
-     - Lab Protocols: 'Lab-Protocols.md'
-     - Chemical SOPs: 'Chemical-Standard-Operating-Protocols.md'
-     - Alarm Information: 'Alarm-Information.md'
 
-   - 'Bioinformatic Workflows':
+   - 'Workflows':
      - Basics: 'bio_Basics.md'
-     - Annotation: 'bio-Annotation.md'
-     - DNA Methylation Analysis: 'bio_DNA-methylation.md'
-     - Gene Expression: 'bio-Gene-expression.md'
-     - Transcriptome Assembly: 'bio_Transcriptome-assembly.md'
+     - GWAS: 'bio-Annotation.md'
+     - TWAS: 'bio_DNA-methylation.md'
+     - PheWas: 'bio-Gene-expression.md'
+     - Other: 'bio_Transcriptome-assembly.md'
